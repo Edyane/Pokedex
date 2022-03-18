@@ -4,14 +4,13 @@ body {
 
 main {
     min-height: 100vh;
-    background-color: aqua;
     display: flex;
     align-items: center;
     justify-content: center;
+    backgrounD-color: #DADFE8;
 }
 
 .pokedex {
-    background-color: coral;
     display: flex;
     gap: 30px;
     padding: 30px 0;
