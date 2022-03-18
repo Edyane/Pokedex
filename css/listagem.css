@@ -5,7 +5,7 @@
 .listagem .pokemon {
     display: flex;
     align-items: center;
-    justify-content:space-between;
+    justify-content: space-between;
     margin-bottom: 10px;
     background-color: #6B727A;
     color: #FFFFFF;
