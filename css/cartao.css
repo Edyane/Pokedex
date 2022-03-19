@@ -74,7 +74,7 @@
 }
 
 .tipo-fogo {
-    background-color: #FC9F5B;
+    background-color: #ED8A8B;
 }
 
 .tipo-eletrico {
@@ -94,13 +94,9 @@
 }
 
 .tipo-dragao {
-    background-color: #E8AE68;
+    background-color: #C29791;
 }
 
-.tipo-water {
-    background-color: #B0C6CE;
-}
-
-.tipo-fada {
-    background-color: #EEC6CA;
+.tipo-1 {
+    background-color: #dfdfdf;
 }
