@@ -10,7 +10,5 @@ Lista de Pokemons:
 * Gyarados
 * Gengar
 * Dragonite
-* Squirtle
-* Jigglypuff
 
-![Pokédox](https://cdn.discordapp.com/attachments/887544607599120404/954552488856522802/unknown.png)
+![Pokédox](https://cdn.discordapp.com/attachments/884155938985111702/1024468170708365392/unknown.png)
