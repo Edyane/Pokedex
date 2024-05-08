@@ -10,5 +10,3 @@ Lista de Pokemons:
 * Gyarados
 * Gengar
 * Dragonite
-
-![Pokédox](https://cdn.discordapp.com/attachments/884155938985111702/1024468170708365392/unknown.png)
